@@ -1,0 +1,5 @@
+{
+  "name": "Reverse Prompt Generator",
+  "description": "An AI-powered tool that analyzes text and generates a high-quality prompt that could have produced it. This application helps users understand and engineer better prompts for generative AI models.",
+  "requestFramePermissions": []
+}
